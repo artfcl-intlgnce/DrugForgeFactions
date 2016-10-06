@@ -1,2 +1,2 @@
-# DrugForgeFactions
-Minecraft Server
+# NarcoWars
+Minecraft Factions Server
