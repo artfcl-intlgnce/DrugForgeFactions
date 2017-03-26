@@ -1,2 +1,2 @@
-# NarcoWars
-Minecraft Factions Server
+# XXMC
+ Crime-Themed Minecrat Network 
