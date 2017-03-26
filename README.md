@@ -1,2 +1,2 @@
 # XXMC
- Crime-Themed Minecrat Network 
+ Crime-Themed Minecraft Network 
